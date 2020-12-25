@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/nav_second_page"
-        android:name="io.minoro75.testing_app.ui.first_page.GalleryFragment"
+        android:name="io.minoro75.testing_app.ui.first_page.FirstFragment"
         android:label="@string/menu_second_page"
         tools:layout="@layout/fragment_first_page" />
 

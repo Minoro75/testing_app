@@ -6,6 +6,6 @@ import retrofit2.http.GET
 
 interface ApiService {
 @GET(RestConfig.API_NEWS_CALL)
-suspend fun getNews():ResponseClassItem
+suspend fun getNews():ResponseClass
 
 }
